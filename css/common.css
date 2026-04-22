@@ -1,7 +1,4 @@
-/* reset */
-
 body {
-  margin: 0;
   font-family: "Roboto", sans-serif;
   color: #2e2f42;
   background-color: #ffffff;
@@ -11,8 +8,6 @@ body {
 
 ul {
   list-style: none;
-  margin: 0;
-  padding: 0;
 }
 
 /* links */
@@ -20,26 +15,6 @@ ul {
 a {
   text-decoration: none;
   color: inherit;
-}
-
-/* headings */
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p {
-  margin: 0;
-}
-
-/* images */
-
-img {
-  display: block;
-  max-width: 100%;
-  height: auto;
 }
 
 /* buttons */
