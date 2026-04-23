@@ -1,7 +1,11 @@
-#team {
+.team {
   background: #f4f4fd;
 }
-#team > h2 {
+.team-list li {
+  background: #FFFFFF;
+
+}
+.team-title {
   font-family: "Roboto";
   font-weight: 700;
   font-size: 36px;
