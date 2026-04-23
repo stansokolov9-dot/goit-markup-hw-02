@@ -13,13 +13,12 @@ ul {
 /* links */
 
 a {
+  font-style: normal;
   text-decoration: none;
-  color: inherit;
 }
 
 /* buttons */
 
 button {
   cursor: pointer;
-  font-family: inherit;
 }
